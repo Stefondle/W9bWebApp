@@ -1,3 +1,4 @@
+//todo - get good marks
 //The URIs of the REST endpoint
 MUA = "https://prod-04.uksouth.logic.azure.com:443/workflows/c0f4f79ff58b43cda934919e607e5044/triggers/manual/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=vKRphQxlsl5VFI3rhZCcSbof36pf806EG_I0gPx04Mo";
 RAMA  = "https://prod-22.centralus.logic.azure.com:443/workflows/39756725681e403093415169034d27f6/triggers/manual/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=JccuA9rejnVV9xI2XWZO_zv-mCOtXe5QldDBVzOaNdc";
